@@ -1,12 +1,8 @@
 from typing import Dict, Any
-from spacy.pipeline import Pipe
 from spacy.language import Language
 from spacy.tokens import Doc, Span, Token
-from spacy.util import get_lang_class
 from absl import logging
-import tensorflow as tf
 import tensorflow_hub as hub
-import tensorflow_text
 # TODO error on MacOS https://github.com/google/sentencepiece/issues/309
 # import sentencepiece 
 # import tf_sentencepiece
