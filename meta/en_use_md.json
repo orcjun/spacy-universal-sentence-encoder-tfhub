@@ -9,7 +9,7 @@
     "url": "https://github.com/orcjun/spacy-universal-sentence-encoder-tfhub",
     "license": "MIT",
     "requirements": [
-        "universal_sentence_encoder @ git+ssh://git@github.com/orcjun/spacy-universal-sentence-embedding-tfhub@fix-dependency#fix-dependency"
+        "universal_sentence_encoder @ git+ssh://git@github.com/orcjun/spacy-universal-sentence-encoder-tfhub.git@fix-dependency#fix-dependency"
     ],
     "sources": [{
         "name": "Universal Sentence Encoder",
