@@ -11,10 +11,10 @@ You can install the following models with pip:
 
 | model name | source | pip package |
 |------------|--------|---|
-| en_use_md  | https://tfhub.dev/google/universal-sentence-encoder | `pip install https://github.com/MartinoMensio/spacy-universal-sentence-encoder-tfhub/releases/download/en_use_md-0.2.0/en_use_md-0.2.0.tar.gz#en_use_md-0.2.0 ` |
-| en_use_lg  | https://tfhub.dev/google/universal-sentence-encoder-large | `pip install https://github.com/MartinoMensio/spacy-universal-sentence-encoder-tfhub/releases/download/en_use_lg-0.2.0/en_use_lg-0.2.0.tar.gz#en_use_lg-0.2.0` |
-| xx_use_md  | https://tfhub.dev/google/universal-sentence-encoder-multilingual | `pip install https://github.com/MartinoMensio/spacy-universal-sentence-encoder-tfhub/releases/download/xx_use_md-0.2.0/xx_use_md-0.2.0.tar.gz#xx_use_md-0.2.0 ` |
-| xx_use_lg  | https://tfhub.dev/google/universal-sentence-encoder-multilingual-large | `pip install https://github.com/MartinoMensio/spacy-universal-sentence-encoder-tfhub/releases/download/xx_use_lg-0.2.0/xx_use_lg-0.2.0.tar.gz#xx_use_lg-0.2.0` |
+| en_use_md  | https://tfhub.dev/google/universal-sentence-encoder | `pip install https://github.com/orcjun/spacy-universal-sentence-encoder-tfhub/releases/download/en_use_md-0.2.1/en_use_md-0.2.1.tar.gz#en_use_md-0.2.1 ` |
+| en_use_lg  | https://tfhub.dev/google/universal-sentence-encoder-large | `pip install https://github.com/orcjun/spacy-universal-sentence-encoder-tfhub/releases/download/en_use_lg-0.2.1/en_use_lg-0.2.1.tar.gz#en_use_lg-0.2.1` |
+| xx_use_md  | https://tfhub.dev/google/universal-sentence-encoder-multilingual | `pip install https://github.com/orcjun/spacy-universal-sentence-encoder-tfhub/releases/download/xx_use_md-0.2.1/xx_use_md-0.2.1.tar.gz#xx_use_md-0.2.1 ` |
+| xx_use_lg  | https://tfhub.dev/google/universal-sentence-encoder-multilingual-large | `pip install https://github.com/orcjun/spacy-universal-sentence-encoder-tfhub/releases/download/xx_use_lg-0.2.1/xx_use_lg-0.2.1.tar.gz#xx_use_lg-0.2.1` |
 
 
 ## Build model
